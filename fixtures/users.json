@@ -1,0 +1,20 @@
+[
+    {
+        "fullName": "joaozinho lo",
+        "userName": "joaozinho1",
+        "email": "joaozinho1@teste.com",
+        "password": "12345678"
+    },
+    {
+        "fullName": "pedrinho lo",
+        "userName": "pedrinho1",
+        "email": "pedrinho1@teste.com",
+        "password": "12345678"
+    },
+    {
+        "fullName": "zequinha lo",
+        "userName": "zequinha1",
+        "email": "zequinha1@teste.com",
+        "password": "12345678"
+    }
+]
